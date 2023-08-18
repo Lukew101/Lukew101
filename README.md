@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luke Williams</h1>
+<h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">Full-Stack Developer | Java | JavaScript | TypeScript | React </h3>
 
 <h3 align="left">Connect with me:</h3>
