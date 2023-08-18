@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Luke Williams</h1>
+<h3 align="center">A passionate Full-Stack Java developer based in Oslo, Norway</h3>
 
 <!--
 **Lukew101/Lukew101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
