@@ -7,8 +7,8 @@
 
 ### 🔭 I’m currently working on:
 - [TaskNexus](https://github.com/CeezR/TaskNexus)
-- [My portfolio](https://github.com/Lukew101/my-portfolio)
 - [Workout generator](https://github.com/Lukew101/workout-generator)
+- [Oslo Capitals](https://github.com/Lukew101/Oslo-Capitals)
 
 ### 📫 Where to reach me
 - Email: lukewilliams10101@gmail.com
