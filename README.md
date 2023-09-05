@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/luke-williams-b693421b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luke Williams' LinkedIn" height="30" width="40" /></a>
 
 ### 🔭 I’m currently working on:
+- [LearningPath](https://github.com/The-Brain-Train/LearningPath)
 - [TaskNexus](https://github.com/CeezR/TaskNexus)
 - [Workout generator](https://github.com/Lukew101/workout-generator)
 - [Oslo Capitals](https://github.com/Lukew101/Oslo-Capitals)
