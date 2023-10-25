@@ -9,7 +9,6 @@
 - [LearningPath](https://github.com/The-Brain-Train/LearningPath)
 - [TaskNexus](https://github.com/CeezR/TaskNexus)
 - [Workout generator](https://github.com/Lukew101/workout-generator)
-- [Oslo Capitals](https://github.com/Lukew101/Oslo-Capitals)
 
 ### 📫 Where to reach me
 - Email: lukewilliams10101@gmail.com
