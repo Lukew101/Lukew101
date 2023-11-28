@@ -7,7 +7,6 @@
 
 ### 🔭 I’m currently working on:
 - [LearningPath](https://github.com/The-Brain-Train/LearningPath)
-- [TaskNexus](https://github.com/CeezR/TaskNexus)
 - [Workout generator](https://github.com/Lukew101/workout-generator)
 
 ### 📫 Where to reach me
