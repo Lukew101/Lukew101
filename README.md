@@ -3,6 +3,7 @@
 
 ### Contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-williams-b693421b6/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukewilliams10101@gmail.com)
 
 ### 🔭 I’m currently working on:
 [Workout generator](https://github.com/Lukew101/workout-generator)
