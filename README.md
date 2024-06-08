@@ -1,7 +1,8 @@
 # Hi, I'm Luke 👋
 ## Full-Stack Developer | Java | Spring | TypeScript | React
 
-You can contact me on ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+### Contact me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-williams-b693421b6/)
 
 ### 🔭 I’m currently working on:
 [Workout generator](https://github.com/Lukew101/workout-generator)
