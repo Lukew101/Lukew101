@@ -1,5 +1,5 @@
 # Hi, I'm Luke 👋
-## Full-Stack Developer | Java | Spring | TypeScript | React
+### Full-Stack Developer | Java | Spring | TypeScript | React
 
 ### Contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-williams-b693421b6/)
